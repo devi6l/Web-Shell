@@ -1,2 +1,2 @@
 # Web-Shell
-alfa and wos shell
+wos shell
